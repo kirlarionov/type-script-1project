@@ -6,7 +6,7 @@
 </h1>
 
 ## About
- A simple application designed to get me acquainted with TypeScript
+ A simple application in which I learned about TypeScript and practiced typing components, objects, and functions, etc.
 
 ## Technology stack
 <p>
