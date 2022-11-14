@@ -35,11 +35,15 @@ const UsersPage: FC = () => {
                <UserItem
                   key={user.id}
                   user={user}
-                  onClick={(user) => navigate("/users/" + user.id)}
+                  onClick={(user) =>
+                     navigate("/type-script-1project/users/" + user.id)
+                  }
                />
             )}
          />
-         <BackButton href={"/"}>&#129044; Back to HOME</BackButton>
+         <BackButton href={"/type-script-1project/home"}>
+            &#129044; Back to HOME
+         </BackButton>
       </>
    )
 }

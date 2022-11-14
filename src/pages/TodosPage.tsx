@@ -31,7 +31,9 @@ const TodosPage: FC = () => {
             items={todos}
             renderItem={(todo: ITodo) => <TodoItem todo={todo} key={todo.id} />}
          />
-         <BackButton href={"/"}>&#129044; Back to HOME</BackButton>
+         <BackButton href={"/type-script-1project/home"}>
+            &#129044; Back to HOME
+         </BackButton>
       </>
    )
 }

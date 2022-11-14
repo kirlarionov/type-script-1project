@@ -53,7 +53,9 @@ const UserItemPage: FC = () => {
             </h3>
             <h3>{user?.website}</h3>
          </UserBlockStyle>
-         <BackButton href={"/users"}>&#129044; Back to USERS</BackButton>
+         <BackButton href={"/type-script-1project/users"}>
+            &#129044; Back to USERS
+         </BackButton>
       </>
    )
 }

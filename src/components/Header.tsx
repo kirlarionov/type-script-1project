@@ -36,9 +36,10 @@ const Header: FC = () => {
       <HeaderContainer>
          <NavContainer>
             <div style={{ display: "flex" }}>
-               <NavLinkItem to="/">Home</NavLinkItem>
-               <NavLinkItem to="/users">Users</NavLinkItem>
-               <NavLinkItem to="/todos">Todos</NavLinkItem>
+               <NavLinkItem to="/type-script-1project/">Start</NavLinkItem>
+               <NavLinkItem to="/type-script-1project/home">Home</NavLinkItem>
+               <NavLinkItem to="/type-script-1project/users">Users</NavLinkItem>
+               <NavLinkItem to="/type-script-1project/todos">Todos</NavLinkItem>
             </div>
             <div>
                <Logo />
