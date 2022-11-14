@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/type-script-1project/static/js/main.ba0fed81.js",
+    "static/media/typescript.svg": "/type-script-1project/static/media/typescript.a6305a733dd55243980aec55f96f70c5.svg",
+    "index.html": "/type-script-1project/index.html",
+    "main.ba0fed81.js.map": "/type-script-1project/static/js/main.ba0fed81.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ba0fed81.js"
+  ]
+}
